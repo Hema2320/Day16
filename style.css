@@ -1,0 +1,30 @@
+body{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 5px solid black;
+    display: flex;
+
+  }
+  
+  
+  .checked {
+      color: yellow;
+    }
+    #star{
+      color: red;
+    }
+    #star1
+    {
+      color: red;
+    }
+    #star2{
+      color:red;
+    }
+    #star3{
+      color: red;
+    }
+#ln{
+margin-left:  110px;
+}  
+
